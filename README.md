@@ -51,6 +51,7 @@ java -cp "P13.jar;lib/*" p4.P4
 ```
 ## 🎥 Demo
 
-![Formas y trazo](./docs/gif1.gif)
-![Gif2](./docs/gif2.gif)
-![Gif3](./docs/gif3.gif)
+- ![Formas y trazo](./docs/gif1.gif)
+- ![Cambio color](./docs/cambio_color.gif)
+- ![Distintos filtros](./docs/rotacion.gif)
+  
