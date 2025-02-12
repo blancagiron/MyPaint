@@ -51,8 +51,8 @@ java -cp "P13.jar;lib/*" p4.P4
 ```
 ## 🎥 Demo
 
-<div style="display: flex; justify-content: space-around;">
-  <img src="./docs/gif1.gif" alt="Formas y trazo" style="width: 30%;">
-  <img src="./docs/gif2.gif" alt="Gif2" style="width: 30%;">
-  <img src="./docs/gif3.gif" alt="Gif3" style="width: 30%;">
+<div>
+  <img src="./docs/gif1.gif" alt="Formas y trazo" style="width: 45%;">
+  <img src="./docs/gif2.gif" alt="Gif2" style="width: 45%;">
+  <img src="./docs/gif3.gif" alt="Gif3" style="width: 45%;">
 </div>
