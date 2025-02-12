@@ -51,8 +51,6 @@ java -cp "P13.jar;lib/*" p4.P4
 ```
 ## 🎥 Demo
 
-<div>
-  <img src="./docs/gif1.gif" alt="Formas y trazo" style="width: 45%;">
-  <img src="./docs/gif2.gif" alt="Gif2" style="width: 45%;">
-  <img src="./docs/gif3.gif" alt="Gif3" style="width: 45%;">
-</div>
+![Formas y trazo](./docs/gif1.gif)
+![Gif2](./docs/gif2.gif)
+![Gif3](./docs/gif3.gif)
